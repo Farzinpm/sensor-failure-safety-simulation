@@ -92,7 +92,13 @@ The simulation demonstrated a significant degradation of the remaining perceptio
 The results show that the remaining LiDAR-camera redundancy was insufficient to maintain the required perception capability under the defined conditions.
 
 A key finding was that the problem was **not only reduced sensor range**. Reduced perception quality and increased latency also affected the ability to maintain a stable driving trajectory.
+![Sensor performance under dense fog](results/plots/sensor_performance_dense_fog.png)
+
 ![Perception range under dense fog](results/plots/perception_range.png)
+
+![Emergency braking response](results/plots/emergency_braking.png)
+
+![Lane-keeping success rate](results/plots/lane_keeping_success.png)
 
 ### 6. Technical Conclusion
 
