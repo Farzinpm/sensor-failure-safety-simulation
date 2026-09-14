@@ -49,6 +49,7 @@ The model included:
 * Statistical evaluation of sensor performance across different reflectivity classes
 
 The simulation therefore connected **sensor degradation → perception quality → safety decision → vehicle response** within one analysis framework.
+[View simulation source code](src/sensor_failure_simulation.py)
 
 ### 4. Parameters & Key Assumptions
 
